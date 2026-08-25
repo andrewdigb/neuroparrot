@@ -1,13 +1,12 @@
-# RealCatTranslator
-Project in several phases to ultimately built an app that translate from human to cats and cats to human using deep learning algorithm
-For all cat lovers by Lea B, Teo B and Herve B
+# Project Parrot
+Project in several phases to ultimately build an app that translate from animal vocalisms to human language using Neural Networks
 
 ---
 
 ## Bio-Digital Vocalism Translator (multi-species neural engine)
 
 The project now ships a working neural-network translator that generalizes
-**beyond cats to any animal** you have data for (dogs, birds, cows, frogs, …).
+**beyond parrots to any animal** you have data for (dogs, birds, cows, frogs, …).
 It lives in the [`bio_vocalism_translator`](bio_vocalism_translator/) Python package.
 
 ### How it works
@@ -74,13 +73,6 @@ python -m bio_vocalism_translator taxonomy
 
 
 
-web site link: [here](https://frogboss74.github.io/RealCatTranslator/)
-
-
-Development wiki link: [here](https://github.com/FrogBoss74/RealCatTranslator/wiki)
-
-
-[--> Current Status](https://github.com/FrogBoss74/RealCatTranslator/wiki/Collecting-cat-sounds)
 
 
 >Help me to collect cat sounds either by recording your cat and droping the file in the drop box below or capturing sounds from Youtube videos using online [mp3fy here](https://mp3fy.com/) or any recording app on mobile (see how to name the file below)
