@@ -1,4 +1,4 @@
-# Project Parrot
+# NeuroParrot
 Project in several phases to ultimately build an app that translate from animal vocalisms to human language using Neural Networks
 
 ---
